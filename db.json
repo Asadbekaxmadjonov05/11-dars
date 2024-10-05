@@ -1,0 +1,18 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "age":"18",
+            "name":"Komiljon",
+            "surname":"Shodiyev",
+            "study":"Najot Talim"
+        },
+        {
+            "id":"1",
+            "age":"18",
+            "name":"Komiljon",
+            "surname":"Shodiyev",
+            "study":"Najot Talim"
+        }
+    ]
+}
