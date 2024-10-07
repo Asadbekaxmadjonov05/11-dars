@@ -1,18 +1,24 @@
 {
-    "users":[
+    "student":[
         {
             "id":"1",
-            "age":"18",
             "name":"Komiljon",
             "surname":"Shodiyev",
             "study":"Najot Talim"
         },
         {
+            "id":"2",
+            "name":"Mohirjon",
+            "surname":"Asqarov",
+            "study":"Turin"
+        }
+    ], 
+    "teachers":[
+        {
             "id":"1",
-            "age":"18",
-            "name":"Komiljon",
-            "surname":"Shodiyev",
-            "study":"Najot Talim"
+            "name":"Nurilo",
+            "surname":"Suyunboyev",
+            "job":"Teacher"
         }
     ]
 }
